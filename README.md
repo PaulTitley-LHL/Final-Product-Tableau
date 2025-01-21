@@ -15,8 +15,11 @@ To analyze and interpret data from the Airbnb dataset and attempt to make some i
 
 ## Results
 I went with Option 2 for my project, specifically the Airbnb dataset.
+
 First page: I used a Gantt visualization to display the clustering of account creation dates for each borough and property type, to visualize where the majorities lied.
+
 Second and third: I used map visualizations with togglable filters to break down how each borough ranked in average price and review score.
+
 Fourth and fifth: Used a combination of line, bars and tree visualizations to break down what controlled the average and which data might be a factor in affecting the numbers for each borough.
 
 ## Challenges 
